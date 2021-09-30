@@ -2,10 +2,10 @@
 
 VM finder is a wrapper for TKGI and BOSH clients
 
-#Installation
+# Installation
 bash install.sh
 
-#Usage
+# Usage
 
 usage: vmfinder [-h] [-c CLUSTER_NAME] [-i VM_IP] [-p POD_IP]
 
